@@ -4,13 +4,13 @@
 This project analyzes the **2022 Layoffs Dataset** to identify trends in workforce reductions across different industries and countries. It includes **data cleaning** and **exploratory data analysis (EDA)** using SQL.  
 
 ## 📂 Table of Contents  
-- [Description](#description)  
-- [Business Introduction](#business-introduction)  
-- [Business Problem](#business-problem)  
-- [Project Aim](#project-aim)  
-- [Process Taken](#process-taken)  
-- [Tools Used](#tools-used)  
-- [Key Insights](#key-insights)  
+- [Description](#-description)  
+- [Business Introduction](#-business-introduction)  
+- [Business Problem](#-business-problem)  
+- [Project Aim](#-project-aim)  
+- [Process Taken](#-process-taken)  
+- [Tools Used](#-tools-used)  
+- [Key Insights](#-key-insights)  
 
 ---
 
